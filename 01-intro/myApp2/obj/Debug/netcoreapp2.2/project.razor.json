@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\CGM276\\CGM276\\01-intro\\myApp2\\myApp2.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+D:\CGM276\CGM276\01-intro\UDPClient\bin\Debug\netcoreapp2.2\UDPClient.deps.json
+D:\CGM276\CGM276\01-intro\UDPClient\bin\Debug\netcoreapp2.2\UDPClient.runtimeconfig.json
+D:\CGM276\CGM276\01-intro\UDPClient\bin\Debug\netcoreapp2.2\UDPClient.runtimeconfig.dev.json
+D:\CGM276\CGM276\01-intro\UDPClient\bin\Debug\netcoreapp2.2\UDPClient.dll
+D:\CGM276\CGM276\01-intro\UDPClient\bin\Debug\netcoreapp2.2\UDPClient.pdb
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.csprojAssemblyReference.cache
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.csproj.CoreCompileInputs.cache
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.AssemblyInfoInputs.cache
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.AssemblyInfo.cs
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.dll
+D:\CGM276\CGM276\01-intro\UDPClient\obj\Debug\netcoreapp2.2\UDPClient.pdb

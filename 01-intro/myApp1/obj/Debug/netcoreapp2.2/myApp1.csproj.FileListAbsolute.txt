@@ -1,0 +1,11 @@
+D:\CGM276\CGM276\01-intro\myApp1\bin\Debug\netcoreapp2.2\myApp1.deps.json
+D:\CGM276\CGM276\01-intro\myApp1\bin\Debug\netcoreapp2.2\myApp1.runtimeconfig.json
+D:\CGM276\CGM276\01-intro\myApp1\bin\Debug\netcoreapp2.2\myApp1.runtimeconfig.dev.json
+D:\CGM276\CGM276\01-intro\myApp1\bin\Debug\netcoreapp2.2\myApp1.dll
+D:\CGM276\CGM276\01-intro\myApp1\bin\Debug\netcoreapp2.2\myApp1.pdb
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.csprojAssemblyReference.cache
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.csproj.CoreCompileInputs.cache
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.AssemblyInfoInputs.cache
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.AssemblyInfo.cs
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.dll
+D:\CGM276\CGM276\01-intro\myApp1\obj\Debug\netcoreapp2.2\myApp1.pdb

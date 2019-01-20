@@ -1,0 +1,11 @@
+D:\CGM276\CGM276\01-intro\UDPServer\bin\Debug\netcoreapp2.2\UDPServer.deps.json
+D:\CGM276\CGM276\01-intro\UDPServer\bin\Debug\netcoreapp2.2\UDPServer.runtimeconfig.json
+D:\CGM276\CGM276\01-intro\UDPServer\bin\Debug\netcoreapp2.2\UDPServer.runtimeconfig.dev.json
+D:\CGM276\CGM276\01-intro\UDPServer\bin\Debug\netcoreapp2.2\UDPServer.dll
+D:\CGM276\CGM276\01-intro\UDPServer\bin\Debug\netcoreapp2.2\UDPServer.pdb
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.csprojAssemblyReference.cache
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.csproj.CoreCompileInputs.cache
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.AssemblyInfoInputs.cache
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.AssemblyInfo.cs
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.dll
+D:\CGM276\CGM276\01-intro\UDPServer\obj\Debug\netcoreapp2.2\UDPServer.pdb
