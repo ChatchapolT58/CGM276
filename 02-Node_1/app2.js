@@ -1,9 +1,9 @@
 function ReadFile(callback){
-    //callback();
-    console.log(callback)
+    callback();
+    //console.log(callback)
 }
 
 var x = function(){
     console.log("Read File");
 }
-ReadFile(5);
+ReadFile(x);
