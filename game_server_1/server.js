@@ -11,7 +11,7 @@ app.get("/users", function (req, res) {
         console.log(data);
         res.send(data);
     })
-    
+
 });
 
 var server = app.listen(8081, function () {
