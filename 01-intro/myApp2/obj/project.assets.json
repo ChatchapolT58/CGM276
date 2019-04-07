@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CGM276\\CGM276\\01-intro\\myApp2\\myApp2.csproj",
+      "projectUniqueName": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\myApp2\\myApp2.csproj",
       "projectName": "myApp2",
-      "projectPath": "D:\\CGM276\\CGM276\\01-intro\\myApp2\\myApp2.csproj",
+      "projectPath": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\myApp2\\myApp2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\CGM276\\CGM276\\01-intro\\myApp2\\obj\\",
+      "outputPath": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\myApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

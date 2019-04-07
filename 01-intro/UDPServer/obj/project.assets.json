@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CGM276\\CGM276\\01-intro\\UDPServer\\UDPServer.csproj",
+      "projectUniqueName": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\UDPServer\\UDPServer.csproj",
       "projectName": "UDPServer",
-      "projectPath": "D:\\CGM276\\CGM276\\01-intro\\UDPServer\\UDPServer.csproj",
+      "projectPath": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\UDPServer\\UDPServer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\CGM276\\CGM276\\01-intro\\UDPServer\\obj\\",
+      "outputPath": "d:\\CGM276-Game-Implementing-2019\\CGM276\\01-intro\\UDPServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
