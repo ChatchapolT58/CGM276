@@ -4,7 +4,6 @@ var io = require('socket.io')(server);
 
 server.listen(3000);
 
-// global variables for the server
 var enemies = [];
 var playerSpawnPoints = [];
 var clients = [];
@@ -27,7 +26,6 @@ io.on('connection', function(socket) {
 				rotation:clients[i].position,
 				health:clients[i].health
 			};
-			// in your current game, we need to tell you about the other players.
 			socket.emit('other player connected', playerConnected);
 			console.log(currentPlayer.name+' emit: other player connected: '+JSON.stringify(playerConnected));
 		}
@@ -35,7 +33,6 @@ io.on('connection', function(socket) {
 
 	socket.on('play', function(data) {
 		console.log(currentPlayer.name+' recv: play: '+JSON.stringify(data));
-		// if this is the first person to join the game init the enemies
 		if(clients.length === 0) {
 			numberOfEnemies = data.enemySpawnPoints.length;
 			enemies = [];
@@ -61,7 +58,6 @@ io.on('connection', function(socket) {
 		var enemiesResponse = {
 			enemies: enemies
 		};
-		// we always will send the enemies when the player joins
 		console.log(currentPlayer.name+' emit: enemies: '+JSON.stringify(enemiesResponse));
 		socket.emit('enemies', enemiesResponse);
 		var randomSpawnPoint = playerSpawnPoints[Math.floor(Math.random() * playerSpawnPoints.length)];
@@ -72,10 +68,8 @@ io.on('connection', function(socket) {
 			health: 100
 		};
 		clients.push(currentPlayer);
-		// in your current game, tell you that you have joined
 		console.log(currentPlayer.name+' emit: play: '+JSON.stringify(currentPlayer));
 		socket.emit('play', currentPlayer);
-		// in your current game, we need to tell the other players about you.
 		socket.broadcast.emit('other player connected', currentPlayer);
 	});
 
@@ -103,7 +97,6 @@ io.on('connection', function(socket) {
 
 	socket.on('health', function(data) {
 		console.log(currentPlayer.name+' recv: health: '+JSON.stringify(data));
-		// only change the health once, we can do this by checking the originating player
 		if(data.from === currentPlayer.name) {
 			var indexDamaged = 0;
 			if(!data.isEnemy) {
